@@ -76,7 +76,7 @@ function BG(color){
 
         default:
             alert("Enter a valid color")
-            return "col-3 text-center boxSize"
+            return "col-3 text-center boxSize";
     }
 }
 
